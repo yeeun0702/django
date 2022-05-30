@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'GowunDodum-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    font-family: 'GowunDodum-Regular';
+    background-image : url('https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA4MzBfMTIx%2FMDAxNTM1NjM1ODg5NzU3.Zq1_T4inHaceDD7k_AZSR0t3BZAWkiHEA8xnL3mv6mog.0-jbWLAL5cPyO31ll65R_KFBXBCSJWhxeeDDI1WlRkQg.JPEG.high-quality%2F5.jpg&type=ofullfill340_600_png');
+    background-size: cover;
+    text-align:center;
+    align-content: center;
+    font-size: 25px;
+   
+    
+}
+nav{
+    text-align:center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    text-align: center;  
+    padding-bottom: 30px;  
+}
+article{
+padding: 10px;
+margin: 10px;
+text-align:center;
+}    
+table{
+padding: 10px auto;
+margin :10px auto;
+}
+
+h1{
+font-size: 45px;
+color: black;
+text-align:center;
+}
+h2{
+font-size: 45px;
+color: black;
+text-align:center;
+}
+
+
+h1,h2{
+text-align:center;
+font-size: 30px;
+}
+
+blockquote, footer{
+font-size: 20px;
+text-align: center;
+}
+
+.blockquote-footer{
+    font-size: 15px;
+    text-align: center;
+}
